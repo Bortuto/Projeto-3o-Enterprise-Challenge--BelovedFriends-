@@ -39,7 +39,7 @@ Descrições técnicas utilizadas no projeto:
 
 Utilizamos o next react como framework e a lingaguem typescript como principal lingaguem de programação. Além disso utilizamos outros serviços e tecnologias como ferramentas para o desenvolvimento do projeto.
 
-Utilizamos o Clerck para ser nosso Authenticator, através dele é possivel criar contas, fazer login e até mesmo entrar com um provider como: entrar com sua conta Google
+Utilizamos o Clerk para ser nosso Authenticator, através dele é possivel criar contas, fazer login e até mesmo entrar com um provider como: entrar com sua conta Google
 
 Utilizamos o Banco de Dados Neon para salvar toda a parte de informações do aplicativo, como filiados, passeios, entre outros
 
